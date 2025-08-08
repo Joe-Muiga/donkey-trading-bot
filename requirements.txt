@@ -1,7 +1,8 @@
-MetaTrader5==5.0.45
+
 pandas
 numpy
 requests
 python-dotenv
 
 talib-binary
+
